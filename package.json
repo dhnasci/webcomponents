@@ -1,0 +1,24 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "Como construir um componente web manualmente a partir do \r Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node build/teste.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhnasci/webcomponents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhnasci/webcomponents/issues"
+  },
+  "homepage": "https://github.com/dhnasci/webcomponents#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
